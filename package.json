@@ -1,0 +1,22 @@
+{
+  "name": "assistente-bola",
+  "version": "1.0.0",
+  "description": "Bot para auxiliar o servidor do BielSwift",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "assistente-bola"
+  },
+  "author": "Rodrigo Trancoso",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
